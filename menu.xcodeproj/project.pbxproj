@@ -13,6 +13,7 @@
 		509144F52D3894BF00EC7865 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 509144F42D3894BF00EC7865 /* Preview Assets.xcassets */; };
 		509144FC2D3EE91F00EC7865 /* MenuItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 509144FB2D3EE91E00EC7865 /* MenuItem.swift */; };
 		50A27AC02D41CFF700B0D616 /* DataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50A27ABF2D41CFF700B0D616 /* DataService.swift */; };
+		50A27AE02D42E28700B0D616 /* MenuListRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50A27ADF2D42E28700B0D616 /* MenuListRow.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		509144F42D3894BF00EC7865 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		509144FB2D3EE91E00EC7865 /* MenuItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuItem.swift; sourceTree = "<group>"; };
 		50A27ABF2D41CFF700B0D616 /* DataService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataService.swift; sourceTree = "<group>"; };
+		50A27ADF2D42E28700B0D616 /* MenuListRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuListRow.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				509144FB2D3EE91E00EC7865 /* MenuItem.swift */,
 				509144F12D3894BF00EC7865 /* Assets.xcassets */,
 				509144F32D3894BF00EC7865 /* Preview Content */,
+				50A27ADF2D42E28700B0D616 /* MenuListRow.swift */,
 			);
 			path = menu;
 			sourceTree = "<group>";
@@ -146,6 +149,7 @@
 				509144FC2D3EE91F00EC7865 /* MenuItem.swift in Sources */,
 				509144F02D3894BB00EC7865 /* MenuView.swift in Sources */,
 				509144EE2D3894BB00EC7865 /* menuApp.swift in Sources */,
+				50A27AE02D42E28700B0D616 /* MenuListRow.swift in Sources */,
 				50A27AC02D41CFF700B0D616 /* DataService.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
